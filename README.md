@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -83,8 +83,7 @@
         <button type="submit" class="bg-white text-gray-900 font-semibold px-6 py-3 rounded hover:bg-gray-200 transition">Envoyer</button>
       </form>
       <div class="text-center mt-8">
-        <p>Tél : 0497230127
-</p>
+        <p>Tél : 0497.230.127</p>
         <p>Email : acvk.welding@gmail.com</p>
       </div>
     </div>
